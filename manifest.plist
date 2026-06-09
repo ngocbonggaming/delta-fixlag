@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/ngocbonggaming/delta-fixlag/releases/download/deltafixlag/Roblox.VN_2.721.1167_1779833491_signed.ipa</string>
+          <string>https://github.com/ngocbonggaming/delta/releases/download/delta/Delta.X.VNG.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>robloxvn.com123</string>
+        <string>robloxvn.deltavng</string>
         <key>bundle-version</key>
-        <string>2.721.1167</string>
+        <string>2.723.783</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Roblox VN</string>
+        <string>Delta X VNG</string>
       </dict>
     </dict>
   </array>
