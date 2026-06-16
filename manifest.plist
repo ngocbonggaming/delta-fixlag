@@ -12,7 +12,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/ngocbonggaming/delta/releases/download/delta/Delta.X.VNG.ipa</string>
+          <string>https://github.com/ngocbonggaming/delta-fixlag/releases/download/deltafixlag/Delta.X.VNG.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -20,7 +20,7 @@
         <key>bundle-identifier</key>
         <string>robloxvn.deltavng</string>
         <key>bundle-version</key>
-        <string>2.723.783</string>
+        <string>2.724.735</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
